@@ -1,7 +1,12 @@
 # Campus Event and Club Management System 🎓📱
 **Devi Ahilya Vishwavidyalaya (DAVV) • School of Computer Science & Information Technology (SCSIT)**
 
-A modern, cloud-architected Android mobile application built with **React Native**, **Expo SDK 58**, **TypeScript**, **Expo Router**, and persistent storage.
+[![Live Cloud Application](https://img.shields.io/badge/Live_Cloud_App-Online-18C6B5?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nikitanegi18.github.io/campus-event-app/)
+[![GitHub Repository](https://img.shields.io/badge/GitHub_Repo-nikitanegi18%2Fcampus--event--app-10152B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikitanegi18/campus-event-app)
+
+* **🌐 Live Cloud Application URL:** [https://nikitanegi18.github.io/campus-event-app/](https://nikitanegi18.github.io/campus-event-app/)
+* **📂 GitHub Source Repository:** [https://github.com/nikitanegi18/campus-event-app](https://github.com/nikitanegi18/campus-event-app)
+* **👩‍🎓 Presenter & Lead Developer:** **Nikita Negi** (School of Computer Science & IT, DAVV Indore)
 
 ---
 
